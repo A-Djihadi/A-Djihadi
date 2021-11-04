@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A-Djihadi
 - 👀 I’m interested in Web Dev with a preference in back-end (MongoDB and NodeJs) and Object-Oriented Programming(OOP) with Java.
 - 🌱 I’m currently learning ReactJs and Software engineering
-- 💞️ I’m looking to collaborate on Projec in OOP or Web project.
+- 💞️ I’m looking to collaborate on OOP project or Web project.
 - 📫 How to reach me djihadi.ahamdy@gmail.com or ahamdy@insa-toulouse.
