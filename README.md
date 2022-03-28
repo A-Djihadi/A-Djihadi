@@ -25,7 +25,7 @@
 
 <p align="center">
   <strong><a href="https://www.djihadi-ahamdy.fr">Official Website</a></strong> |
-  <strong><a href="https://www.linkedin.com/in/djiahdi-a">LinkedIn</a></strong> |
+  <strong><a href="https://www.linkedin.com/in/djihadi-a">LinkedIn</a></strong> |
   <strong><a href="mailto:djihadi.ahamdy@gmail.com">Mail me</a></strong>
 </p>
 
