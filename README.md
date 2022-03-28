@@ -11,9 +11,9 @@
   <a href="https://github.com/A-Djihadi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Djihadi&hide_border=true&show_icons=true" alt="Djihadi's github stats"></a>
 <p></p>
 <p></p>  
-  <a>
+<--!  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Djihadi&hide=html&layout=compact&langs_count=6&card_width=445&theme=gruvbox&locale=fr" />
-</a>
+</a> -->
 </p>
 <p></p>
 <p align="center">
