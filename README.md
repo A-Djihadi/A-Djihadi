@@ -8,8 +8,9 @@
 - 📫 How to reach me djihadi.ahamdy@gmail.com or ahamdy@insa-toulouse.fr
 <p></p>
 <p align="center">
-  <a href="https://github.com/A-Djihadi"><img src="https://github-readme-stats.vercel.app/api?username=A-Djihadi&hide_border=true&show_icons=true" alt="Djihadi's github stats"></a>
-  
+  <a href="https://github.com/A-Djihadi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Djihadi&hide_border=true&show_icons=true" alt="Djihadi's github stats"></a>
+<p></p>
+<p></p>  
   <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Djihadi&hide=html&layout=compact&langs_count=6&card_width=445&theme=gruvbox&locale=fr" />
 </a>
