@@ -1,10 +1,15 @@
 <h1 align="center">Welcome to my GitHub profile</h1>
 
 <h3 align="center">Another day lost in github i know...</h1>
+<br>
 - 👋 Hi, I’m @A-Djihadi
+<br>
 - 👀 I’m interested in Web Dev with a preference in back-end (MongoDB and NodeJs) and Object-Oriented Programming(OOP).
+<br>
 - 💞️ I’m looking to collaborate on OOP project or Web project.
-- - If you have any idea to develop, i will glad to learn more about it !! 
+<br>
+- If you have any idea to develop, i will glad to learn more about it !! 
+<br>
 - 📫 How to reach me djihadi.ahamdy@gmail.com or ahamdy@insa-toulouse.fr
 <br>
 <br>
