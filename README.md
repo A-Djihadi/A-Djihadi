@@ -6,16 +6,18 @@
 - 💞️ I’m looking to collaborate on OOP project or Web project.
 - - If you have any idea to develop, i will glad to learn more about it !! 
 - 📫 How to reach me djihadi.ahamdy@gmail.com or ahamdy@insa-toulouse.fr
-<p></p>
+<br>
+<br>
+
 <p align="center">
-  <a href="https://github.com/A-Djihadi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Djihadi&hide_border=true&show_icons=true" alt="Djihadi's github stats"></a>
-<p></p>
-<p></p>  
-<--!  <a>
+<a href="https://github.com/A-Djihadi"><img align="center" src="https://github-readme-stats.vercel.app/api?username=A-Djihadi&hide_border=true&show_icons=true" alt="Djihadi's github stats"></a>
+<br>
+<!--  <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-Djihadi&hide=html&layout=compact&langs_count=6&card_width=445&theme=gruvbox&locale=fr" />
 </a> -->
 </p>
-<p></p>
+<br>
+
 <p align="center">
   <strong><a href="https://www.djihadi-ahamdy.fr">Official Website</a></strong> |
   <strong><a href="https://www.linkedin.com/in/djiahdi-a">LinkedIn</a></strong> |
