@@ -63,10 +63,8 @@ languages: [French, English]
 | :--- | :--- | :--- |
 | 🔁 CI/CD | [devops-cicd-github-actions-jenkins](https://github.com/A-Djihadi/devops-cicd-github-actions-jenkins) | Same pipeline built with GitHub Actions and Jenkins |
 | ☸️ Kubernetes | [devops-k8s-hpa-pdb](https://github.com/A-Djihadi/devops-k8s-hpa-pdb) | Autoscaling (HPA) and availability (PodDisruptionBudget) |
-| 🔐 Kubernetes | [devops-k8s-rbac](https://github.com/A-Djihadi/devops-k8s-rbac) | Role-based access control for clusters |
 | ⛵ Helm | [devops-helm-chart](https://github.com/A-Djihadi/devops-helm-chart) | Reusable Helm chart for application deployment |
 | 🏗️ Terraform | [devops-terraform-modules](https://github.com/A-Djihadi/devops-terraform-modules) | Reusable infrastructure modules |
-| 🗄️ Terraform | [devops-terraform-remote-state](https://github.com/A-Djihadi/devops-terraform-remote-state) | Remote state and locking setup |
 | ⚙️ Ansible | [devops-ansible-playbook](https://github.com/A-Djihadi/devops-ansible-playbook) | Server configuration as code |
 | 🛡️ DevSecOps | [devsecops-docker-templates](https://github.com/A-Djihadi/devsecops-docker-templates) | Hardened, scanned Docker image templates |
 | 🐳 Docker | [devops-docker-healthcheck](https://github.com/A-Djihadi/devops-docker-healthcheck) | Container health checks done right |
